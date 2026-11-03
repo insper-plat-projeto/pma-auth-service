@@ -1,4 +1,4 @@
-package store.auth_service;
+package store.auth;
 
 import java.util.Base64;
 import java.util.Date;

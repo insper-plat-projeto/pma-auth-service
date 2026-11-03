@@ -1,4 +1,4 @@
-package store.auth_service;
+package store.auth;
 
 public final class AuthParser {
 

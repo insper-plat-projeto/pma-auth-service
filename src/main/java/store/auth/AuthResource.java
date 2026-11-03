@@ -1,4 +1,4 @@
-package store.auth_service;
+package store.auth;
 
 import java.time.Duration;
 import java.util.Map;
